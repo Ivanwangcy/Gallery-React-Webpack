@@ -1,4 +1,4 @@
-require('normalize.css/normalize.css');
+require('normalize.css/normalize.css'); // 比较流行的 css reset
 require('styles/App.css');
 
 import React from 'react';
